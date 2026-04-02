@@ -11,20 +11,20 @@
 
 | Gate | Status | Details |
 |------|--------|---------|
-| Auth verified | ✅ | GitHub: kolenakpatrik-droid, Vercel: kolenakpatrik-droid |
+| Auth verified | ✅ | GitHub: devgroow-alt, Vercel: patrik-kolenaks-projects |
 | Isolated project | ✅ | ~/Desktop/chcem-groow |
 | Asset inventory | ✅ | 22 images downloaded, all full-res, all > 100 bytes |
 | All copy preserved | ✅ | Verbatim Slovak/English text from original |
 | npm run build | ✅ | Passes (1 warning: font override fallback, non-blocking) |
 | Static output serves | ✅ | Verified via serve — HTML 200, title correct, content present |
 | Visual diff documented | ✅ | All 13 sections ✅, no critical deviations |
-| GitHub push | ✅ | https://github.com/kolenakpatrik-droid/chcem-groow |
+| GitHub push | ✅ | https://github.com/devgroow-alt/chcem-groow |
 | Vercel production | ✅ | https://chcem-groow.vercel.app |
 | Delivery report | ✅ | This file |
 
 ## URLs
 
-- **GitHub:** https://github.com/kolenakpatrik-droid/chcem-groow
+- **GitHub:** https://github.com/devgroow-alt/chcem-groow
 - **Production:** https://chcem-groow.vercel.app
 - **Vercel Dashboard:** https://vercel.com/patrik-kolenaks-projects/chcem-groow
 
@@ -45,6 +45,7 @@ Custom domain `chcem.groow.sk` requires manual DNS configuration:
 - Font registry: "Big Shoulders Display" is listed as "Big Shoulders" in Next.js font data — visually identical
 - All images use `<img>` tags (no next/image) for static export compatibility
 - Form uses `e.preventDefault()` — no backend
+- GitHub account switched from kolenakpatrik-droid → devgroow-alt per updated spec
 
 ## Files
 - 10 React components in `src/components/`
