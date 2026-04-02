@@ -1,21 +1,21 @@
 const logos = [
   [
-    { src: "/images/client-01.png", alt: "Client 1" },
-    { src: "/images/client-02.png", alt: "Client 2" },
-    { src: "/images/client-03.webp", alt: "Client 3" },
-    { src: "/images/client-04.webp", alt: "Client 4" },
+    { src: "/images/client-01.svg", alt: "Client 1" },
+    { src: "/images/client-02.svg", alt: "Client 2" },
+    { src: "/images/client-03.png", alt: "Client 3" },
+    { src: "/images/client-04.png", alt: "Client 4" },
   ],
   [
-    { src: "/images/client-05.png", alt: "Client 5" },
-    { src: "/images/client-06.png", alt: "Client 6" },
-    { src: "/images/client-07.webp", alt: "Client 7" },
-    { src: "/images/client-08.webp", alt: "Client 8" },
+    { src: "/images/client-05.svg", alt: "Client 5" },
+    { src: "/images/client-06.svg", alt: "Client 6" },
+    { src: "/images/client-07.png", alt: "Client 7" },
+    { src: "/images/client-08.png", alt: "Client 8" },
   ],
   [
-    { src: "/images/client-09.png", alt: "Client 9" },
-    { src: "/images/client-10.webp", alt: "Client 10" },
-    { src: "/images/client-11.webp", alt: "Client 11" },
-    { src: "/images/client-12.png", alt: "Client 12" },
+    { src: "/images/client-09.svg", alt: "Client 9" },
+    { src: "/images/client-10.png", alt: "Client 10" },
+    { src: "/images/client-11.png", alt: "Client 11" },
+    { src: "/images/client-12.svg", alt: "Client 12" },
   ],
 ];
 
