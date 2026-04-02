@@ -16,7 +16,7 @@ const cases = [
   {
     bg: "/images/case-grape-bg.webp",
     title: "GRAPE FESTIVAL",
-    desc: "Komplexné zastrešenie mediálnej stratégie pre jeden z najväčších hudobných festivalov",
+    desc: "Komplexné zastrešenie mediálnej stratégie pre jeden z najväčších hudobných festivalov na Slovensku",
     delay: "animation-delay-2",
     extraPadding: false,
   },

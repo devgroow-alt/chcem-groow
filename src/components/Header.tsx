@@ -5,7 +5,7 @@ export default function Header() {
         <img
           src="/images/logo-groow.png"
           alt="GROOW"
-          className="max-w-[250px] w-full"
+          className="max-w-[180px] w-full"
         />
       </div>
     </header>

@@ -1,17 +1,17 @@
 const features = [
   {
     title: "TAILOR-MADE CAMPAIGNS",
-    desc: "We craft unique marketing strategies specifically designed for each client, ensuring a personalised approach that resonates with their target audience.",
+    desc: "Nepoužívame predpripravené riešenia. Naše kampane sú šité na mieru, aby sa tvoja značka stala nezabudnuteľnou.",
     delay: "animation-delay-1",
   },
   {
     title: "MULTI-CHANNEL MASTERY",
-    desc: "Our expertise spans across all major media channels, allowing us to deliver cohesive and impactful campaigns that reach consumers wherever they are.",
+    desc: "Od webu cez sociálne siete až po tradičný a guerilla marketing – tvoje marketingové posolstvo bezproblémovo integrujeme naprieč všetkými platformami.",
     delay: "animation-delay-2",
   },
   {
     title: "DATA-DRIVEN APPROACH",
-    desc: "Leveraging the latest in data analytics and technology, we make informed decisions that maximize ROI and drive measurable results for our clients.",
+    desc: "Naše mediaplány nie sú rigidné. Dynamicky presúvame budgety podľa reálnych výsledkov tak, aby sme splnili alebo prekonali ciele kampane.",
     delay: "animation-delay-3",
   },
 ];
@@ -31,11 +31,12 @@ export default function GroowEfekt() {
             <h2 className="font-heading text-white text-[3.125rem] md:text-[4rem] font-bold mb-6 scroll-animate animate-fadeInRight animation-delay-1">
               GROOW-EFEKT
             </h2>
-            <p className="text-[#57fd05] text-[1.125rem] md:text-[1.25rem] mb-8 leading-relaxed" style={{ fontFamily: "Arial, sans-serif" }}>
+            <p className="text-[#57fd05] text-[1.125rem] md:text-[1.25rem] mb-8 leading-relaxed">
               Pochopenie produktu klienta, stanovenie vhodnej stratégie,
-              nasadenie a následne testovanie...Robíme desiatky experimentov,
-              aby sme klientom priniesli vysoko nadštandardnú návratnosť
-              investícií do marketingu, nazývame to GROOW Efekt.
+              nasadenie a následne testovanie. To je náš prístup. Robíme
+              desiatky experimentov, aby sme klientom priniesli vysoko
+              nadštandardnú návratnosť investícií do marketingu, nazývame to
+              GROOW Efekt.
             </p>
 
             <div className="md:col-span-8 mb-12">
